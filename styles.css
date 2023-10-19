@@ -1,0 +1,45 @@
+ul > li > strong::after {
+    content: " - ";
+  }
+  
+  #title, h3 {
+    text-align: center;
+  }
+  
+  .description {
+    font-style: italic;
+    text-align: center;
+  }
+  
+  #main {
+    background-color: #eee;
+    margin: 30px 8px;
+    padding: 20px;
+  }
+  
+  #img-div {
+    margin: 0 auto;
+    background-color: #fff;
+      padding: 20px 0;
+  }
+  
+  #image {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+  }
+  
+  #img-caption {
+    text-align: center;
+  }
+  
+  #tribute-info {
+    display: block;
+    text-align: center;
+  }
+  
+  ul {
+    margin: 10px auto;
+    display: inline-block;
+    text-align: left;
+  }
